@@ -1,0 +1,13 @@
+open github
+click the + sign
+click new repository and then name it GitHubRepoAssignment
+click create repository
+open terminal
+cd desktop/dojoassignments
+git init
+touch readme.md
+vi readme.md
+git status
+git add
+git commit
+git push
